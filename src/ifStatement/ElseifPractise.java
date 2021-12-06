@@ -8,7 +8,7 @@ public class ElseifPractise {
         if (a >0 && a<=5 ) {
             System.out.println("your number is in range of 0 -5");
         }else if(a>=6 && a<= 10)
-            System.out.println();
+            System.out.println("i will do");
 
         }
     }
